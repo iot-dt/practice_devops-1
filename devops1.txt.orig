@@ -2,6 +2,9 @@ This is the devops first practice session.
 This is Divyesh Mehta
 updated by deepak baluni
 
+<<<<<<< HEAD
+Ramesh---- Line of coded added at 23:16
+
 updated by deepak
 hi deepak 
 This is divyesh 4th commit
@@ -11,3 +14,6 @@ this is second chnage
 This is Divyesh --- adding comment on jul 30 10.02am
 This is thrid change by Lakshmiikanth 10:23PM
 this commit is made by deepak 30july
+=======
+
+>>>>>>> parent of 3784985...  Commit 01 Ramesh
