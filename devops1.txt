@@ -6,8 +6,8 @@ updated by deepak
 hi deepak 
 This is divyesh 4th commit
 This is my 5th commit
+
 This is Lakshmikanth
 this is second chnage
-This is Divyesh --- adding comment on jul 30 10.02am
 This is thrid change by Lakshmiikanth 10:23PM
 this commit is made by deepak 30july
